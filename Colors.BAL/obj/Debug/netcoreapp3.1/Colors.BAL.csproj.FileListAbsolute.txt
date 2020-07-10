@@ -1,0 +1,9 @@
+E:\Dev\ColorsAPI\Colors.BAL\bin\Debug\netcoreapp3.1\Colors.BAL.deps.json
+E:\Dev\ColorsAPI\Colors.BAL\bin\Debug\netcoreapp3.1\Colors.BAL.dll
+E:\Dev\ColorsAPI\Colors.BAL\bin\Debug\netcoreapp3.1\Colors.BAL.pdb
+E:\Dev\ColorsAPI\Colors.BAL\obj\Debug\netcoreapp3.1\Colors.BAL.csprojAssemblyReference.cache
+E:\Dev\ColorsAPI\Colors.BAL\obj\Debug\netcoreapp3.1\Colors.BAL.AssemblyInfoInputs.cache
+E:\Dev\ColorsAPI\Colors.BAL\obj\Debug\netcoreapp3.1\Colors.BAL.AssemblyInfo.cs
+E:\Dev\ColorsAPI\Colors.BAL\obj\Debug\netcoreapp3.1\Colors.BAL.csproj.CoreCompileInputs.cache
+E:\Dev\ColorsAPI\Colors.BAL\obj\Debug\netcoreapp3.1\Colors.BAL.dll
+E:\Dev\ColorsAPI\Colors.BAL\obj\Debug\netcoreapp3.1\Colors.BAL.pdb

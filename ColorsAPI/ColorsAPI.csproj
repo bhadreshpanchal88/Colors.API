@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="DataFiles\Colors.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Colors.BAL\Colors.BAL.csproj" />
+    <ProjectReference Include="..\Colors.Services\Colors.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="DataFiles\Colors.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+  </ItemGroup>
+
+
+</Project>

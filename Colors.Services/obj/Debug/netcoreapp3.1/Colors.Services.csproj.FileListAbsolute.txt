@@ -1,0 +1,12 @@
+E:\Dev\ColorsAPI\Colors.Services\bin\Debug\netcoreapp3.1\Colors.Services.deps.json
+E:\Dev\ColorsAPI\Colors.Services\bin\Debug\netcoreapp3.1\Colors.Services.dll
+E:\Dev\ColorsAPI\Colors.Services\bin\Debug\netcoreapp3.1\Colors.Services.pdb
+E:\Dev\ColorsAPI\Colors.Services\obj\Debug\netcoreapp3.1\Colors.Services.csprojAssemblyReference.cache
+E:\Dev\ColorsAPI\Colors.Services\obj\Debug\netcoreapp3.1\Colors.Services.AssemblyInfoInputs.cache
+E:\Dev\ColorsAPI\Colors.Services\obj\Debug\netcoreapp3.1\Colors.Services.AssemblyInfo.cs
+E:\Dev\ColorsAPI\Colors.Services\obj\Debug\netcoreapp3.1\Colors.Services.dll
+E:\Dev\ColorsAPI\Colors.Services\obj\Debug\netcoreapp3.1\Colors.Services.pdb
+E:\Dev\ColorsAPI\Colors.Services\bin\Debug\netcoreapp3.1\Colors.BAL.dll
+E:\Dev\ColorsAPI\Colors.Services\bin\Debug\netcoreapp3.1\Colors.BAL.pdb
+E:\Dev\ColorsAPI\Colors.Services\obj\Debug\netcoreapp3.1\Colors.Services.csproj.CopyComplete
+E:\Dev\ColorsAPI\Colors.Services\obj\Debug\netcoreapp3.1\Colors.Services.csproj.CoreCompileInputs.cache

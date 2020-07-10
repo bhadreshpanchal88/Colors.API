@@ -1,0 +1,114 @@
+[
+  {
+    "Name": "black",
+    "Category": "hue",
+    "Type": "primary",
+    "Code": {
+      "RGBA": [
+        255,
+        255,
+        255,
+        1
+      ],
+      "Hex": "#000"
+    }
+  },
+  {
+    "Name": "white",
+    "Category": "value",
+    "Type": "primary",
+    "Code": {
+      "RGBA": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "Hex": "#FFF"
+    }
+  },
+  {
+    "Name": "red",
+    "Category": "hue",
+    "Type": "primary",
+    "Code": {
+      "RGBA": [
+        255,
+        0,
+        0,
+        1
+      ],
+      "Hex": "#FF0"
+    }
+  },
+  {
+    "Name": "blue",
+    "Category": "hue",
+    "Type": "primary",
+    "Code": {
+      "RGBA": [
+        0,
+        0,
+        255,
+        1
+      ],
+      "Hex": "#00F"
+    }
+  },
+  {
+    "Name": "yellow",
+    "Category": "hue",
+    "Type": "primary",
+    "Code": {
+      "RGBA": [
+        255,
+        255,
+        0,
+        1
+      ],
+      "Hex": "#FF0"
+    }
+  },
+  {
+    "Name": "green",
+    "Category": "hue",
+    "Type": "secondary",
+    "Code": {
+      "RGBA": [
+        0,
+        255,
+        0,
+        1
+      ],
+      "Hex": "#0F0"
+    }
+  },
+  {
+    "Name": "grey",
+    "Category": "value",
+    "Type": "secondary",
+    "Code": {
+      "RGBA": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "Hex": "#FFE"
+    }
+  },
+  {
+    "Name": "purple",
+    "Category": "hue",
+    "Type": "secondary",
+    "Code": {
+      "RGBA": [
+        555,
+        355,
+        155,
+        10
+      ],
+      "Hex": "#000"
+    }
+  }
+]
